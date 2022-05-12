@@ -1,0 +1,57 @@
+
+figcaption {
+    font-style: italic;
+    margin-top: 10px;
+}
+
+p {
+    text-indent: justify;
+}
+
+body {
+    color: #333333;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h2 {
+    border-bottom: 2px solid #333333;
+    margin-top: 30px;
+}
+
+#voltar{
+    text-align: right;
+}
+.janis img{
+    height: 500px;
+    width: 400px;
+}
+
+table {
+    border: 2px solid black;
+    border-style: initial;
+    text-align: center;
+    border-width: 100px;
+    width: 100%;
+    border-spacing: 0;
+    border-collapse: collapse;
+    
+
+}
+
+table img{
+    width: 200px;
+    height: 200px;
+}
+
+table figcaption {
+    font-size: 10px;
+}
+
+iframe {
+    border-bottom: 1px solid black;
+}
+
+
+embed {
+    background-color: white;
+}
